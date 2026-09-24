@@ -1,6 +1,3 @@
-Yep — **one single copy-paste block**. Put this directly into `README.md`:
-
-````markdown
 # 🧠 Lucky — Local AI Personal Assistant
 
 > A private, locally running AI personal assistant powered by Qwen3 and llama.cpp, with persistent memory, PC awareness, and controlled filesystem tools.
@@ -98,7 +95,7 @@ The project focuses on:
                          │     Qwen3       │
                          │   Local Model   │
                          └─────────────────┘
-````
+
 
 ---
 
@@ -453,12 +450,3 @@ Lucky started as a personal local AI assistant and evolved into a system-aware a
 
 If you find Lucky interesting, consider giving the repository a ⭐ on GitHub.
 
-````
-
-Then save it and push:
-
-```powershell
-git add README.md
-git commit -m "Add comprehensive README"
-git push
-````

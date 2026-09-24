@@ -1,0 +1,8 @@
+memory.json
+personality.txt
+active_system_prompt.txt
+active_request_prompt.txt
+*.zip
+*.bak
+*.log
+*.tmp

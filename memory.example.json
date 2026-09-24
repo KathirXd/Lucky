@@ -1,0 +1,10 @@
+{
+  "id": "example",
+  "user": {
+    "name": "User"
+  },
+  "preferences": [],
+  "facts": [],
+  "projects": [],
+  "important_people": []
+}
